@@ -34,5 +34,5 @@ sub calling_bot {
 }
 print "Starting total update...\n";
 &calling_bot;
-print "Done calling bot.\n";
+print "Done calling total-update-2!\n";
 
